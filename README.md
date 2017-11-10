@@ -1,4 +1,4 @@
-## Welcome to the Memories station of Cherish & Leon !
+## Welcome to the Memories station of Iris & Leon !
 
 You can use the [editor on GitHub](https://github.com/LimingQiu/Memories-station-of-Qi-Peng-and-Liming-Qiu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
