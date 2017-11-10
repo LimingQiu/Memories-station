@@ -1,4 +1,4 @@
-## Welcome to The Memories station of Qi Peng & Liming Qiu !
+## Welcome to the Memories station of Qi Peng & Liming Qiu !
 
 You can use the [editor on GitHub](https://github.com/LimingQiu/Memories-station-of-Qi-Peng-and-Liming-Qiu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
